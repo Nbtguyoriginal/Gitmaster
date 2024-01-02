@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import simpledialog, messagebox, Text, Scrollbar
 
 # Set up OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'api key here'
 
 class GitHubRepoPlugin:
 
